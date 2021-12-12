@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PinkRobin1605
 - 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning HTML, CSS.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, CSS and I want to start with Python.
+- 💞️ I’m looking to collaborate on everything :D. 
 - 📫 How to reach me ...
 
 <!---
